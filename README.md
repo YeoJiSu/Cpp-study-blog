@@ -1,8 +1,8 @@
-# Cpp-study-blog
+# 🎡 Cpp-study-blog
 > ### 부산대학교 2학년 1학기 채흥석 교수님의 『C++프로그래밍과실습』 강의의 실습 내용을 정리한 저장소입니다.
 > 📌 C++ 을 통해 객체 지향의 개념을 이해하고, C++ 도구를 사용하여 개발을 합니다.
 
-# 1
+# 📁 1
 > c++ 에 대한 기초 프로그래밍을 합니다.
 ### 🌷 키워드 
 ``` (1)  cin, cout ``` <br>
@@ -16,7 +16,7 @@
 ### 🌷 제약 조건
     1. C++ 언어에서 입/출력 지원을 위한 cin과 cout을 사용한다.
 
-# 2
+# 📁 2
 > Type에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) Built-in types``` <br>
@@ -35,7 +35,7 @@
     2. 문자열은 C++의 string을 이용한다.
     3. numeric_limits<T>를 이용한다.
 
-# 3
+# 📁 3
 > Type에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) new, delete ``` <br>
@@ -59,7 +59,7 @@
     4. 지정한 개수 초과의 점수가 입력되면  “Too many scores”를 출력한다.
 
 
-# 4
+# 📁 4
 > Type, control structure, function 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) struct``` <br>
@@ -101,7 +101,7 @@ struct StudentInfo {
     4. iterator를 사용한다. 
 
 
-# 5
+# 📁 5
 >  함수 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) enum,struct ``` <br>
@@ -148,7 +148,7 @@ enum CommandKind { ADD, SORT, PRINT, CLEAR, EXIT, INVALID} ;
     1. Rectangle 구조체와 CommandKind enum을 사용한다. 
 
 
-# 6
+# 📁 6
 >  함수 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) enum,struct ``` <br>
@@ -201,7 +201,7 @@ public:
     1. Student와 School 클래스를 정의한다. 
 
 
-# 7
+# 📁 7
 >  클래스 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) class constructor & destructor ``` <br>
@@ -233,7 +233,7 @@ public:
     1. MyString 클래스를 정의한다. 
 
 
-# 8
+# 📁 8
 >  오퍼레이터 오버로딩에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1)  operator overloading ``` <br>
@@ -265,7 +265,7 @@ public:
     1. Matrix 클래스를 정의한다. 
 
 
-# 9
+# 📁 9
 >  상속에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1)  inheritance ``` <br>
@@ -312,7 +312,7 @@ public:
 
     1. enum EmployeeLevel를 정의한다. 
     2. Employee 클래스와 이를 상속 받는 Manager 클래스를 정의한다.
-# 10
+# 📁 10
 >  Polymorphism 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1)  Polymorphism ``` <br>
@@ -347,7 +347,7 @@ public:
     1. enum Color를 정의한다. 
     2. Shape 클래스를 정의한다.
 
-# 11
+# 📁 11
 > 더 많은 topic 들에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1)  class, vector, inheritance``` <br>
@@ -360,7 +360,7 @@ public:
     4. ItemList 클래스의 print() 함수로 CPU 정보를 출력합니다.
 
 
-# 12
+# 📁 12
 > Template class 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) Template class ``` <br>
@@ -370,7 +370,7 @@ public:
     1. List클래스의 add함수는 원소를 추가합니다.
     2. List클래스의 find(문자열)함수는 문자열이 일치하면 true를 불일치하면 false를 리턴합니다.  
 
-# 13
+# 📁 13
 >  Exception Handling 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1)  Exception Handling ``` <br>
@@ -381,7 +381,7 @@ public:
     2. destructor, copy constructor, assignment operator를 구현합니다.
     3. 스택의 pop(), push(), print()를 구현합니다.
 
-# 14
+# 📁 14
 >  namespace 에 대해 배우고, 그에 대한 실습을 진행합니다. 
 ### 🌷 키워드 
 ``` (1) namespace ``` <br>
